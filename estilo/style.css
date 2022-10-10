@@ -3,8 +3,9 @@
 
 @font-face {
     font-family: 'android';
-    src: url('/desafios/d10site+cursoemvideo/fontes/idroid.otf') format('opentype');
+    src: url('/fontes/idroid.otf') format('opentype');
     font-weight: normal;
+    
 }
 
 /*  Trabalhando com Variaveis   */
